@@ -1,0 +1,16 @@
+.Card {
+    background-color: #282626;
+    margin-bottom: 0.5rem;
+    border: none;
+    border-bottom: 1px solid #4f4a4a;
+}
+
+.CardBody {
+    background-color: #282626;
+    color: #efe9e9
+}
+
+.Small {
+    font-size: x-small;
+    color: #bcb2b2
+}

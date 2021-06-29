@@ -1,0 +1,24 @@
+.Button {
+  background-color: #4f4a4a;
+  text-align: center;
+  color: #efe9e9;
+  border-bottom: 3px solid #4f4a4a;
+  padding: 0.5rem;
+  /*box-shadow: 1px 0px #282626;*/
+  margin: 0.3rem 0.5rem;
+}
+
+.Button:hover{
+  color: #a470a4;
+  border-bottom: 3px solid #a470a4;
+}
+
+.A {
+  color: #efe9e9;
+  border-bottom: 3px solid #4f4a4a;
+}
+
+.A:hover {
+  color: #a470a4;
+  border-bottom: 3px solid #a470a4;
+}

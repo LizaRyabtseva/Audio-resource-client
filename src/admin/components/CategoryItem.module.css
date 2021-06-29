@@ -1,0 +1,16 @@
+.Li {
+    border: none;
+    box-shadow: none;
+    border-bottom-left-radius: 0;
+    color: #efe9e9;
+    background-color: #282626;
+}
+
+.Button:hover{
+    color: #a470a4;
+}
+
+/*.Li:hover {*/
+/*    border-bottom: 3px #a470a4 solid;*/
+/*}*/
+

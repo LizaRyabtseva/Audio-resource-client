@@ -1,0 +1,35 @@
+.Li {
+    background-color: #282626;
+    border: none;
+    color: #efe9e9;
+    border-bottom: 3px solid #282626;
+}
+
+.Dropdown {
+    color: #efe9e9;
+    background-color: #282626;
+    border: none;
+    border-bottom: 3px solid #282626;
+    text-align: center;
+}
+
+.Menu {
+    border: none;
+    background-color: #282626;
+}
+
+.MenuHeader {
+    border: none;
+    background-color: #282626;
+    color: #efe9e9;
+}
+
+.Li:hover,
+.Li:active,
+.Dropdown:hover,
+.Dropdown.active{
+    border: none;
+    background-color: #282626;
+    color: #a470a4;
+    border-bottom: 3px solid #a470a4;
+}

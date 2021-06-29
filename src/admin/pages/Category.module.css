@@ -1,0 +1,20 @@
+.Button {
+    background-color: #282626;
+    color: #efe9e9;
+    border-bottom: 3px solid #282626;
+}
+
+.List {
+    border: none;
+    border-radius: 0;
+    border-bottom: 3px #282626 solid;
+}
+
+.Button:hover{
+    color: #a470a4;
+    border-bottom: 3px solid #a470a4;
+}
+
+.List:hover {
+    border-bottom: 3px #a470a4 solid;
+}
